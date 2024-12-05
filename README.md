@@ -200,10 +200,8 @@ const openGame = (usersPick) => {
 
 - [How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
 
-## ⭐ Author
+## ⭐ Author 
 
-- GitHub - [@anushkachauhxn](https://github.com/anushkachauhxn)
-- Behance - [@anushka_creates](https://www.behance.net/anushka_creates)
+- GitHub - [@edithkaren](https://github.com/edithkaren)
+- LinkedIn - [@rudraksh-paliwal](https://www.linkedin.com/in/rudraksh-paliwal-316b7818b)
 
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
-- Twitter - [@anushka_creates](https://twitter.com/anushka_creates)
